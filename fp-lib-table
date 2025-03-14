@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "braids_v50COPY")(type "KiCad")(uri "$(KIPRJMOD)/braids_v50COPY.pretty")(options "")(descr ""))
+)
